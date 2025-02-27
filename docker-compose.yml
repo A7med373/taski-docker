@@ -2,7 +2,6 @@
 
 volumes:
   pg_data:
-  # Новый volume — для статических файлов
   static:
 
 services:
